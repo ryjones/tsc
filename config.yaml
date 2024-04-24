@@ -32,11 +32,11 @@ repositories:
     oqs-bot: write
     pi-314159: write
   teams:
-    core: write
+    core: maintain
   visibility: public
 - name: ci-containers
   teams:
-    core: write
+    core: maintain
   visibility: public
 - name: liboqs
   collaborators:
@@ -45,19 +45,19 @@ repositories:
     cothan: write
     thomwiggers: write
   teams:
-    core: write
+    core: maintain
   visibility: public
 - name: liboqs-cpp
   collaborators:
     vsoftco: admin
   teams:
-    core: write
+    core: maintain
   visibility: public
 - name: liboqs-dotnet
   collaborators:
     oqs-bot: write
   teams:
-    core: write
+    core: maintain
   visibility: public
 - name: liboqs-go
   collaborators:
@@ -77,46 +77,46 @@ repositories:
     oqs-bot: write
     vsoftco: admin
   teams:
-    core: write
+    core: maintain
   visibility: public
 - name: liboqs-rust
   collaborators:
     dsprenkels: write
     thomwiggers: admin
   teams:
-    core: write
+    core: maintain
   visibility: public
 - name: libssh
   collaborators:
     christianpaquin: admin
     kevinmkane: maintain
   teams:
-    core: write
+    core: maintain
   visibility: public
 - name: openssh
   collaborators:
     oqs-bot: write
   teams:
-    core: write
+    core: maintain
   visibility: public
 - name: openssl
   collaborators:
     oqs-bot: write
   teams:
-    core: write
+    core: maintain
   visibility: public
 - name: oqs-demos
   collaborators:
     oqs-bot: write
   teams:
-    core: write
+    core: maintain
   visibility: public
 - name: oqs-provider
   collaborators:
     oqs-bot: write
     thb-sb: write
   teams:
-    core: write
+    core: maintain
   visibility: public
 - name: profiling
   collaborators:
@@ -126,7 +126,7 @@ repositories:
   visibility: public
 - name: tsc
   teams:
-    tsc: write
+    tsc: maintain
   visibility: public
 - name: www
   collaborators:
